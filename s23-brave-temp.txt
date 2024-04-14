@@ -1,8 +1,31 @@
 title:s23-brave-temp
 
+// Retraced Path - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=548958835&perks=3700496672,3523296417
+dimwishlist:item=548958835&perks=3700496672,4104185692
+dimwishlist:item=548958835&perks=3700496672,4293542123
+dimwishlist:item=548958835&perks=3700496672,1906147653
+dimwishlist:item=548958835&perks=3700496672,3007133316
+dimwishlist:item=548958835&perks=3700496672,2675184851
+dimwishlist:item=548958835&perks=2840833776,3523296417
+dimwishlist:item=548958835&perks=2840833776,4104185692
+dimwishlist:item=548958835&perks=2840833776,4293542123
+dimwishlist:item=548958835&perks=2840833776,1906147653
+dimwishlist:item=548958835&perks=2840833776,3007133316
+dimwishlist:item=548958835&perks=2840833776,2675184851
+
+
 // Forbearance (pve)
 //notes: tags:pve
 dimwishlist:item=568611921&perks=2822142346,2010801679,2396489472
+
+
+// Forbearance (pve)
+//notes: tags:pve
+dimwishlist:item=568611921&perks=2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=2822142346,3523296417,2396489472
+dimwishlist:item=568611921&perks=2822142346,3108830275,2396489472
 
 
 // The Mountaintop (pve)
@@ -45,6 +68,16 @@ dimwishlist:item=568611922&perks=3301904089,951095735,469285294
 dimwishlist:item=568611922&perks=3301904089,951095735,4104185692
 
 
+// The Mountaintop - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=568611922&perks=3300816228,4104185692
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=3523296417,4104185692
+dimwishlist:item=568611922&perks=3523296417,469285294
+dimwishlist:item=568611922&perks=1556840489,4104185692
+dimwishlist:item=568611922&perks=1556840489,469285294
+
+
 // Edge Transit (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=568611923&perks=3751912585,3078487919
@@ -54,6 +87,15 @@ dimwishlist:item=568611923&perks=968510818,3078487919
 // Edge Transit (pve)
 //notes: tags:pve
 dimwishlist:item=568611923&perks=968510818,3078487919
+
+
+// Edge Transit (pve)
+//notes: tags:pve
+dimwishlist:item=568611923&perks=1380253176,2396489472,3993379141
+
+
+// Edge Transit ()
+dimwishlist:item=568611923&perks=1380253176,3993379141
 
 
 // The Recluse (pve)
@@ -75,6 +117,14 @@ dimwishlist:item=1050806815&perks=776531651,4104185692
 dimwishlist:item=1050806815&perks=776531651,2109543898
 dimwishlist:item=1050806815&perks=776531651,3081867624
 dimwishlist:item=1050806815&perks=776531651,3708227201
+
+
+// The Recluse - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=1050806815&perks=3828510309,2109543898
+dimwishlist:item=1050806815&perks=3828510309,4104185692
+dimwishlist:item=1050806815&perks=776531651,2109543898
+dimwishlist:item=1050806815&perks=776531651,4104185692
 
 
 // Hung Jury SR4 (god-pve)
@@ -101,6 +151,14 @@ dimwishlist:item=1453235079&perks=3418782618,3824105627
 dimwishlist:item=1453235079&perks=3418782618,3038247973
 
 
+// Hung Jury SR4 - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=1453235079&perks=3700496672,3824105627
+dimwishlist:item=1453235079&perks=3700496672,3038247973
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
+
 // Falling Guillotine ()
 dimwishlist:item=1815105249&perks=
 
@@ -116,18 +174,14 @@ dimwishlist:item=1815105249&perks=1749209109,3708227201
 dimwishlist:item=1815105249&perks=1546637391,3708227201
 
 
-// Hammerhead ()
-dimwishlist:item=1896309757&perks=
-
-
-// Hammerhead (pve)
-//notes: tags:pve
-dimwishlist:item=1896309757&perks=3418782618,557221067
-dimwishlist:item=1896309757&perks=3418782618,2109543898
-dimwishlist:item=1896309757&perks=1354429876,557221067
-dimwishlist:item=1896309757&perks=1354429876,2109543898
-dimwishlist:item=1896309757&perks=3425386926,557221067
-dimwishlist:item=1896309757&perks=3425386926,2109543898
+// Falling Guillotine - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=1815105249&perks=2396489472,2077819806
+dimwishlist:item=1815105249&perks=2396489472,3913600130
+dimwishlist:item=1815105249&perks=2396489472,3708227201
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=4104185692,3913600130
+dimwishlist:item=1815105249&perks=4104185692,3708227201
 
 
 // Hammerhead (pvp)
@@ -136,6 +190,19 @@ dimwishlist:item=1896309757&perks=1870851715,1890422124
 dimwishlist:item=1896309757&perks=1870851715,2213355989
 dimwishlist:item=1896309757&perks=1354429876,1890422124
 dimwishlist:item=1896309757&perks=1354429876,2213355989
+
+
+// Hammerhead (pve)
+//notes: tags:pve
+dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3418782618,95528736
+dimwishlist:item=1896309757&perks=3418782618,2109543898
+dimwishlist:item=1896309757&perks=1354429876,557221067
+dimwishlist:item=1896309757&perks=1354429876,95528736
+dimwishlist:item=1896309757&perks=1354429876,2109543898
+dimwishlist:item=1896309757&perks=3425386926,557221067
+dimwishlist:item=1896309757&perks=3425386926,95528736
+dimwishlist:item=1896309757&perks=3425386926,2109543898
 
 
 // Blast Furnace (god-pvp)
@@ -434,6 +501,14 @@ dimwishlist:item=2372514508&perks=4090651448,3230963543,460017080,3425386926
 dimwishlist:item=2372514508&perks=4090651448,3230963543,460017080,4104185692
 
 
+// Blast Furnace - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=2372514508&perks=3891536761,4104185692
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+dimwishlist:item=2372514508&perks=3700496672,4104185692
+dimwishlist:item=2372514508&perks=3700496672,3824105627
+
+
 // Elsie's Rifle (god-pvp)
 //notes: ideally, Zen + Headseeker.
 
@@ -552,6 +627,16 @@ dimwishlist:item=2763843898&perks=3038247973,3891536761
 dimwishlist:item=2763843898&perks=3038247973,4104185692
 
 
+// Midnight Coup - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+dimwishlist:item=2763843898&perks=3700496672,4104185692
+dimwishlist:item=2763843898&perks=3700496672,3891536761
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+
+
 // Luna's Howl (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2720533289
@@ -579,6 +664,22 @@ dimwishlist:item=2763843899&perks=679225683,1820235745,4293542123
 dimwishlist:item=2763843899&perks=679225683,3828510309,4293542123
 
 
+// The Other Half - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=3257091167&perks=2077819806,3708227201
+dimwishlist:item=3257091167&perks=2077819806,4104185692
+dimwishlist:item=3257091167&perks=2077819806,3913600130
+dimwishlist:item=3257091167&perks=2077819806,781192741
+dimwishlist:item=3257091167&perks=2077819806,3007133316
+dimwishlist:item=3257091167&perks=2077819806,147913470
+dimwishlist:item=3257091167&perks=1618208178,3708227201
+dimwishlist:item=3257091167&perks=1618208178,4104185692
+dimwishlist:item=3257091167&perks=1618208178,3913600130
+dimwishlist:item=3257091167&perks=1618208178,781192741
+dimwishlist:item=3257091167&perks=1618208178,3007133316
+dimwishlist:item=3257091167&perks=1618208178,147913470
+
+
 // Succession ()
 dimwishlist:item=3612338554&perks=
 
@@ -593,5 +694,18 @@ dimwishlist:item=3612338554&perks=2420895100,1523832109,1771339417
 //notes: tags:pve
 dimwishlist:item=3612338554&perks=1523832109,469285294
 dimwishlist:item=3612338554&perks=1523832109,1546637391
+
+
+// Succession - aegis (pve)
+//notes: https://youtu.be/bxYGUWFTEOs tags:pve
+dimwishlist:item=3612338554&perks=1523832109,469285294
+dimwishlist:item=3612338554&perks=1523832109,1546637391
+dimwishlist:item=3612338554&perks=1523832109,3201496230
+dimwishlist:item=3612338554&perks=3523296417,469285294
+dimwishlist:item=3612338554&perks=3523296417,1546637391
+dimwishlist:item=3612338554&perks=3523296417,3201496230
+dimwishlist:item=3612338554&perks=3978468247,469285294
+dimwishlist:item=3612338554&perks=3978468247,1546637391
+dimwishlist:item=3612338554&perks=3978468247,3201496230
 
 
