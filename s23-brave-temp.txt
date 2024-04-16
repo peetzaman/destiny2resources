@@ -619,6 +619,13 @@ dimwishlist:item=2372514509&perks=2387244414,1015611457
 dimwishlist:item=2372514509&perks=2387244414,3047969693
 
 
+// Elsie's Rifle (pvp)
+//notes: meme pick. worth a try. tags:pvp
+dimwishlist:item=2372514509&perks=1870851715,460017080
+dimwishlist:item=2372514509&perks=1870851715,1015611457
+dimwishlist:item=2372514509&perks=1870851715,3047969693
+
+
 // Midnight Coup (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2763843898&perks=3142289711,3824105627,3891536761
